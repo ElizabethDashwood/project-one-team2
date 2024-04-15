@@ -9,7 +9,7 @@ Patel, Vrinda
 Trends in the housing market were analysed against population sizes and against household income amounts
     
 # Data
-<b>House/Townhouse and Apartment Prices</b> - [source](https://data.melbourne.vic.gov.au/explore/dataset/house-prices-by-small-area-sale-year/information/)  
+<b>Population and Suburb Data</b> - [source](https://data.melbourne.vic.gov.au/explore/dataset/house-prices-by-small-area-sale-year/information/)  
 - /Resouces/2011Census_B03_VIC_SSC_short.csv  and /Resouces/2011Census_geog_desc_1st_and_2nd_release.xlsx
 - /Resouces/2016Census_G03_VIC_SSC.csv and /Resouces/2016Census_geog_desc_1st_and_2nd_release.xlsx
 - /Resouces/2021Census_G03_VIC_SAL.csv and /Resouces/2021Census_geog_desc_1st_2nd_3rd_release.xlsx
@@ -17,8 +17,13 @@ Trends in the housing market were analysed against population sizes and against 
 <b>Household Income Data</b> - [source](https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-distribution-household-income-consumption-and-wealth/latest-release#data-downloads)  
 - /Resouces/5204055011do001.xlsx
 
-<b>Population and Suburb Data</b> - XXX
+<b>House/Townhouse and Apartment Prices</b> - [source](https://data.melbourne.vic.gov.au/explore/dataset/house-prices-by-small-area-sale-year/information/)  
+- Information accessed through API
 
 # How to use
 The main file is the Jupyter Notebook: HousePriceIncomeSuburb.ipynb  
 Running this file will produce all of the used DataFrames and created graphs  
+
+<b>Proposal:</b> Project 1 Team 2 - Project Proposal.docx  
+<b>Report:</b> Project 1 Team 2 - Report.docx  
+<b>Presentation:</b> Housing Markets Trends for Inner Melbourne Suburbs.pptx.pdf  
